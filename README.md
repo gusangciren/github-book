@@ -20,17 +20,15 @@ github 上写本书。
 ***
 标题
 
-# 一级标题
-## 二级标题
-### 三级标题
+            # 一级标题
+            ## 二级标题
+            ### 三级标题
             
 
 
 加粗
-
-**加粗的内容**，没有加粗不带星号。
             
-**加粗的内容**，没有加粗不带星号。 
+            **加粗的内容**，没有加粗不带星号。 
 
 
 最重要的就是图片，图片的Markdown格式是这样的`[]()!`多了一个`!`符号。我们应该把所有的图片文件放在一个文件夹，然后push（上传）到GitHub上面。
@@ -49,6 +47,8 @@ github 上写本书。
 [Git简介](https://learn.microsoft.com/zh-cn/training/modules/intro-to-git/?WT.mc_id=OSS-MVP-5003485)
 
 [Visual studio code](https://code.visualstudio.com/)
+  
+  
 [Sublime Text](https://www.sublimetext.com/)
 
 ### git和GitHub连接
